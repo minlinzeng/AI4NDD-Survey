@@ -61,13 +61,12 @@ We will continuously update this list with the latest resources. Should you find
 
 Remember to replace the `()` with the actual URLs from Google Scholar for each paper.
 #### Conventional Deep Learning Models (C-DL)
-- [One-Shot Person Re-identification with a Consumer Depth Camera](https://doi.org/10.1007/978-1-4471-6296-4\_8) (_Person Re-Identification 2014_)
 - [Parkinson’s disease monitoring from gait analysis via foot-worn sensors]() (_Biocybernetics and Biomedical Engineering, 2018_)
 - [A hybrid spatio-temporal model for detection and severity rating of Parkinson’s disease from gait data]() (_Neurocomputing, 2018_)
 - [LSTM and convolution networks exploration for Parkinson’s diagnosis]() (_2019 IEEE Colombian Conference on Communications and Computing (COLCOM), IEEE, 2019_)
 - [Deep 1d-convnet for accurate Parkinson disease detection and severity prediction from gait]() (_Expert Systems with Applications, 2020_)
 - [Parkinson’s disease diagnosis and severity assessment using ground reaction forces and neural networks]() (_Frontiers in Physiology, 2020_)
-- [A dual-modal attention-enhanced deep learning network for quantification of Parkinson’s disease characteristics]() (_Year Not Provided_)
+- [A dual-modal attention-enhanced deep learning network for quantification of Parkinson’s disease characteristics]() (_ IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2019_)
 - [Classification of Parkinson’s disease]() (_Year Not Provided_)
 - [Biomechanical parameters assessment for the classification of Parkinson disease using bidirectional long short-term memory]() (_2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), IEEE, 2020_)
 - [Deep learning identifies digital biomarkers for self-reported Parkinson’s disease]() (_Patterns, 2020_)
