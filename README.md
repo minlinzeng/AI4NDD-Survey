@@ -33,7 +33,7 @@ We will continuously update this list with the latest resources. Should you find
 	- [**2014**](#2014)
   - [**2013**](#2013)
   - [**2012**](#2012)
-	- [**Before 2014**](#before-2012)
+	- [**Before 2012**](#before-2012)
 - [**Leaderboards**](#leaderboards)
 
 <!-- vscode-markdown-toc-config
