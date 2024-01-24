@@ -53,9 +53,43 @@ We will continuously update this list with the latest resources. Should you find
 - [Machine learning-based method for Huntington's disease gait pattern recognition]()(_Neural Information Processing: 26th International Conference, ICONIP 2019, Springer, 2019_)
 - [Assessment of gait spatio-temporal parameters in neurological disorders using wearable inertial sensors]()(_2015_)
 #### **Multiple Sclerosis (MS)**
+- [Clinical human gait classification: extreme learning machine approach]()(_2019 1st International Conference on Advances in Science, Engineering, and Robotics Technology (ICASERT), IEEE, 2019_)
+- [Predicting multiple sclerosis from gait dynamics using an instrumented treadmill: a machine learning approach]()(_IEEE Transactions on Biomedical Engineering, 2020_)
+- [Using machine learning algorithms for identifying gait parameters suitable to evaluate subtle changes in gait in people with multiple sclerosis]()(_Brain Sciences, 2021_)
+- [Interpretable deep learning for the remote characterisation of ambulation in patients with Parkinson's disease using smartphone sensors]()(_Scientific Reports, 2021_)
+- [Smartphone- and smartwatch-based remote characterisation of ambulation in multiple sclerosis during the two-minute walk test]()(_IEEE Journal of Biomedical and Health Informatics, 2020_)
+- [Machine learning classification of multiple sclerosis patients based on raw data from an instrumented walkway]()(_BioMedical Engineering OnLine, 2022_)
 #### **Alzheimer’s Disease (AD)**
+- [Alzheimer’s disease classification with a cascade neural network]()(_Frontiers in Public Health, 2020_)
+- [Application of machine learning in postural control kinematics for the diagnosis of Alzheimer’s disease]()(_Computational Intelligence and Neuroscience, 2016_)
+- [Detection of mild cognitive impairment and Alzheimer’s disease using dual-task gait assessments and machine learning]()(_Biomedical Signal Processing and Control, vol. 64, p. 102249, 2021_)
+- [Alzheimer’s disease detection using comprehensive analysis of timed up and go test via Kinect v.2 camera and machine learning]()(_IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 30, pp. 1589–1600, 2022_)
+- [Early alzheimer’s disease diagnosis using wearable sensors and multilevel gait assessment: A machine learning ensemble approach]()(_IEEE Sensors Journal, 2023_)
 #### **Amyotrophic Lateral Sclerosis (ALS)**
+- [A novel approach for analysis of altered gait variability in amyotrophic lateral sclerosis]()(_Medical & biological engineering & computing, 2016_)
+- [An effective andautomatic method to aid the diagnosis of amyotrophic lateral sclerosisusing one minute of gait signal]()(_2020 IEEE International Conferenceon Bioinformatics and Biomedicine (BIBM). IEEE, 2020_)
+- [Automatic classificationof amyotrophic lateral sclerosis through gait dynamics]()(_2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2021_)
 #### **Combinatorial Diagnoses of Different Diseases**
+- [Classification of gait rhythm signals between patients with neuro-degenerative diseases and normal subjects: Experiments with statistical features and different classification models]()(_Biomedical Signal Processing and Control, 2015_)
+- [Automatic diagnosis of neuro-degenerative diseases using gait dynamics]()(_Measurement, 2012_)
+- [Multimodal gait recognition for neurodegenerative diseases]()(_IEEE transactions on cybernetics, 2021_)
+- [Hybrid correlation - neural network synergy for gait signal classification]()(_Advances in Heuristic Signal Processing and Applications, Springer, 2013_)
+- [Towards automated human gait disease classification using phase space representation of intrinsic mode functions]()(_Automated Visual Inspection and Machine Vision II, SPIE, 2017_)
+- [Neurodegenerative disease classification using nonlinear gait signal analysis]()(_Electrical Engineering (ICEE), Iranian Conference on. IEEE, 2018_)
+- [Statistical energy values and peak analysis (sep) approach for detection of neurodegenerative diseases]()(_2017 World Congress on Computing and Communication Technologies (WCCCT), IEEE, 2017_)
+- [String grammar unsupervised possibilistic fuzzy c-medians for gait pattern classification in patients with neurodegenerative diseases]()(_Computational Intelligence and Neuroscience, 2018_)
+- [Cassification of neurodegenerative diseases via topological motion analysis—a comparison study for multiple gait fluctuations]()(_Ieee Access, 2020_)
+- [Recognition of neurodegenerative diseases with gait patterns using double feature extraction methods]()(_2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS), IEEE, 2020_)
+- [Development of a neurodegenerative disease gait classification algorithm using multiscale sample entropy and machine learning classifiers]()(_Entropy, 2020_)
+- [Evaluation of vertical ground reaction forces pattern visualization in neurodegenerative diseases identification using deep learning and recurrence plot image feature extraction]()(_Sensors, 2020_)
+- [A robust cost-effective and non-invasive computer-aided method for diagnosis three types of neurodegenerative diseases with gait signal analysis]()(_Measurement, 2020_)
+- [Evaluation of gait behavior with state space vectors for classification of neurodegenerative diseases]()(_EJONS International Journal on Mathematic Engineering and Natural Sciences, 2020_)
+- [Identification of neurodegenerative diseases based on vertical ground reaction force classification using time-frequency spectrogram and deep learning neural network features]()(_Brain Sciences, 2021_)
+- [Development of neurodegenerative diseases’ gait classification algorithm using convolutional neural network and wavelet coherence spectrogram of gait synchronization]()(_IEEE Access, 2022_)
+- [Petri net transition times as training features for multiclass models to support the detection of neurodegenerative diseases]()(_Biomedical Physics & Engineering Express, 2022_)
+- [Using machine learning algorithms for neurodegenerative disease gait classification]()(_Ingenierias USBMed, 2023_)
+- [Deep learning-based classification of neurodegenerative diseases using gait dataset: A comparative study]()(_Proceedings of the 2023 International Conference on Robotics, Control and Vision
+Engineering, 2023_)
 
 ### **Studies by Different AI Model Types in PD Diagnosis**
 #### **Conventional Machine Learning Models (C-ML)**
