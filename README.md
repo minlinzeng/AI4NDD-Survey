@@ -227,7 +227,7 @@ We will continuously update this list with the latest resources. Should you find
 - [A dual-modal attention-enhanced deep learning network for quantification of Parkinson’s disease characteristics](https://ieeexplore.ieee.org/abstract/document/8862940) (_IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2019_)
 #### **2018**
 - [Neurodegenerative disease classification using nonlinear gait signal analysis](https://ieeexplore.ieee.org/abstract/document/8472503) (_Electrical Engineering (ICEE), Iranian Conference on. IEEE, 2018_)
-- [String grammar unsupervised possibilistic fuzzy c-medians for gait pattern classification in patients with neurodegenerative diseases](https://www.hindawi.com/journals/cin/2018/1869565/)(_Computational Intelligence and Neuroscience, 2018_)
+- [String grammar unsupervised possibilistic fuzzy c-medians for gait pattern classification in patients with neurodegenerative diseases](https://www.hindawi.com/journals/cin/2018/1869565/) (_Computational Intelligence and Neuroscience, 2018_)
 - [Parkinson’s disease monitoring from gait analysis via foot-worn sensors](https://www.sciencedirect.com/science/article/abs/pii/S0208521617304321)  (_Biocybernetics and Biomedical Engineering, 2018_)
 - [A hybrid spatio-temporal model for detection and severity rating of Parkinson’s disease from gait data](https://www.sciencedirect.com/science/article/abs/pii/S0925231218303242) (_Neurocomputing, 2018_)
 - [Spatial temporal graph convolutional networks for skeleton-based action recognition](https://ojs.aaai.org/index.php/AAAI/article/view/12323) (_Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2018_)
