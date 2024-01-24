@@ -11,7 +11,7 @@ We will continuously update this list with the latest resources. Should you find
 - [**Benchmark Datasets**](#benchmark-datasets)
 - [**Studies by Different Neurodegenerative Disease**](#Studies-by-Different-Neurodegenerative-Disease)
   - [**Parkinson's Disease (PD)**](#Parkinson's-Disease-PD)
-  - [**Huntington’s Disease (HD)**](#Huntington’s-Disease-HD)
+  - [**Huntington’s Disease (HD)**](#Huntingtons-Disease-HD)
   - [**Multiple Sclerosis (MS)**](#Multiple-Sclerosis-MS)
   - [**Alzheimer’s Disease (AD)**](#Alzheimer’s-Disease-AD)
   - [**Amyotrophic Lateral Sclerosis (ALS)**](#Amyotrophic-Lateral-Sclerosis (ALS))
