@@ -43,7 +43,7 @@ We will continuously update this list with the latest resources. Should you find
 
 ### **Studies by Different AI Model Types in PD Diagnosis**
 
-#### Conventional Machine Learning Models (C-ML)
+#### **Conventional Machine Learning Models (C-ML)**
 - [Hmm for classification of parkinson’s disease based on the raw gait data](https://link.springer.com/article/10.1007/s10916-014-0147-5) (_Journal of medical systems, 2014_)
 - [Parkinson’s disease classification using gait analysis via deterministic learning](https://www.sciencedirect.com/science/article/abs/pii/S0304394016307261)(_Neuroscience letters, 2016_)
 - [Detection of parkinson’s disease by shifted one dimensional local binary patterns from gait](https://www.sciencedirect.com/science/article/abs/pii/S0957417416301105)(_Expert Systems with Applications, 2016_)
