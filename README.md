@@ -50,7 +50,7 @@ We will continuously update this list with the latest resources. Should you find
 - [A deep learning-based approach for gait analysis in Huntington disease]()(_MEDINFO 2019: Health and Wellbeing e-Networks for All, IOS Press, 2019_)
 - [An automatic method for identifying Huntington's disease using gait dynamics]()(_2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI), IEEE, 2019, pp. 1659–1663_)
 - [Diagnosing Huntington's disease through gait dynamics]()(_Advances in Visual Computing: 14th International Symposium on Visual Computing ISVC 2019, Springer, 2019_)
-- [Machine learning-based method for Huntington's disease gait pattern recognition]()(_Neural Information Processing: 26th International Conference, ICONIP 2019, Springer, 2019)
+- [Machine learning-based method for Huntington's disease gait pattern recognition]()(_Neural Information Processing: 26th International Conference, ICONIP 2019, Springer, 2019_)
 - [Assessment of gait spatio-temporal parameters in neurological disorders using wearable inertial sensors]()(_2015_)
 #### **Multiple Sclerosis (MS)**
 #### **Alzheimer’s Disease (AD)**
