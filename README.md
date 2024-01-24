@@ -44,8 +44,8 @@ We will continuously update this list with the latest resources. Should you find
 
 ### **Studies by Different Neurodegenerative Disease**
 #### **Parkinson's Disease (PD)**
-### **Studies by Different AI Model Types in PD Diagnosis**
-#### **Conventional Machine Learning Models (C-ML)**
+##### **Studies by Different AI Model Types in PD Diagnosis**
+###### **Conventional Machine Learning Models (C-ML)**
 - [Hmm for classification of parkinson’s disease based on the raw gait data](https://link.springer.com/article/10.1007/s10916-014-0147-5) (_Journal of medical systems, 2014_)
 - [Parkinson’s disease classification using gait analysis via deterministic learning](https://www.sciencedirect.com/science/article/abs/pii/S0304394016307261)(_Neuroscience letters, 2016_)
 - [Detection of parkinson’s disease by shifted one dimensional local binary patterns from gait](https://www.sciencedirect.com/science/article/abs/pii/S0957417416301105)(_Expert Systems with Applications, 2016_)
@@ -65,7 +65,7 @@ We will continuously update this list with the latest resources. Should you find
 - [Inter-limb time-varying singular value: a new gait feature for Parkinson’s disease detection and stage classification](https://www.sciencedirect.com/science/article/abs/pii/S0263224121002591)(_Measurement, 2021_)
 - [Design and implementation of ML model for early diagnosis of Parkinson’s disease using gait data analysis in IoT environment](https://d1wqtxts1xzle7.cloudfront.net/92913632/Paper_69-Design_and_Implementation_of_ML_Model-libre.pdf?1666542309=&response-content-disposition=inline%3B+filename%3DDesign_and_Implementation_of_ML_Model_fo.pdf&Expires=1706066137&Signature=ewWcb-G8T~nYVriWHAYSl6ZRhKqhRh2GijGVCYY~GkT6SrLD5oVBlajmviCcurQoBJvAQt5zJ0myvlKDSDtu6b6GM7cR~5QpPLJ04B~DMI8Cpr15JEED91Twf3tzKqFYo7c0Dk4DuqBQ9uFSVgQr7CtrHei1E7ZqB4tD0t3t6h2KPPmTVC16AxtikByHZiI4nqIGlejELnbmmYURPDf2GvLgqvUlTvkAbd-hBSdNgQeRGb2SWxkeV0ranpNbgoahRJCduXAp~mAMaw0C1nvjGADKiY4aKTahOH0Y1fyfnsB7kJaflQWTnf38uDf7nEd2b2xLKHj1xhoutYi1X8JeCw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)(_International Journal of Advanced Computer Science and Applications, 2022_)
 - [Gait classification for early detection and severity rating of Parkinson’s disease based on hybrid signal processing and machine learning methods](https://link.springer.com/article/10.1007/s11571-022-09925-9)(_Cognitive Neurodynamics, 2022_)
-#### Conventional Deep Learning Models (C-DL)
+###### Conventional Deep Learning Models (C-DL)
 - [Classification of parkinson’s disease patients—a deep learning strategy](https://www.mdpi.com/2079-9292/11/17/2684)(_Electronics, 2022_)
 - [Accelerating diagnosis of Parkinson’s disease through risk prediction](https://bmcneurol.biomedcentral.com/articles/10.1186/s12883-021-02226-4)(_BMC Neurology, 2021_)
 - [Explainable deep learning architecture for early diagnosis of Parkinson’s disease](https://link.springer.com/article/10.1007/s00500-021-06170-w)(_Soft Computing, 2023_)
@@ -87,7 +87,7 @@ We will continuously update this list with the latest resources. Should you find
 - [Parkinson's disease classification using wavelet transform based feature extraction of gait data](https://ieeexplore.ieee.org/abstract/document/8074230) (_2017 International Conference on Circuit Power and Computing Technologies (ICCPCT), IEEE, 2017_)
 - [AI computing as ubiquitous healthcare solution: Predict Parkinson’s for large masses in society](https://ieeexplore.ieee.org/abstract/document/9979045) (_IEEE Transactions on Computational Social Systems, 2022_)
 - [A novel plantar pressure analysis method to signify gait dynamics in Parkinson’s disease](https://go.gale.com/ps/i.do?id=GALE%7CA767148493&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=15510018&p=HRCA&sw=w&userGroupName=anon%7E771c1f7&aty=open-web-entry) (_Mathematical Biosciences and Engineering, 2023_)
-#### Advanced Deep Learning Models (A-DL)
+###### Advanced Deep Learning Models (A-DL)
 - [Q-backpropagated Time Delay Neural Network (Q-BTDNN) for predicting gait disturbances in PD](https://www.sciencedirect.com/science/article/pii/S1532046416000150)(_Journal of biomedical informatics, 2016_)
 - [WM-STGCN: A novel spatiotemporal modeling method for parkinsonian gait recognition](https://www.mdpi.com/1424-8220/23/10/4980) (_Sensors, 2023_)
 - [SlowFast GCN network for quantification of parkinsonian gait using 2D videos](https://ieeexplore.ieee.org/document/9907308) (_2022 12th International Conference on CYBER Technology in Automation Control and Intelligent Systems (CYBER), IEEE, 2022_)
