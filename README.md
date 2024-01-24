@@ -9,6 +9,12 @@ We will continuously update this list with the latest resources. Should you find
 ## Archives and Resources
 <!-- vscode-markdown-toc -->
 - [**Benchmark Datasets**](#benchmark-datasets)
+- [**Studies by Different Neurodegenerative Disease**](#Studies-by-Different-Neurodegenerative-Disease)
+  - [**Parkinson's Disease (PD)**](#Parkinson's-Disease-(PD))
+  - [**Huntington’s Disease (HD)**](#Huntington’s-Disease-(HD))
+  - [**Multiple Sclerosis (MS)**](#Multiple-Sclerosis-(MS))
+  - [**Alzheimer’s Disease (AD)**](#Alzheimer’s-Disease-(AD))
+  - [**Amyotrophic Lateral Sclerosis (ALS)**](#Amyotrophic-Lateral-Sclerosis (ALS))
 - [**Studies by Different AI Model Types in PD Diagnosis**](#Studies-by-Different-AI-Model-Types-in-PD-Diagnosis)
   - [**Conventional Machine Learning Models (C-ML)**](#Conventional-Machine-Learning-Models-(C-ML))
   - [**Conventional Deep Learning Models (C-DL)**](#Conventional-Deep-Learning-Models-(C-DL))
@@ -36,7 +42,6 @@ We will continuously update this list with the latest resources. Should you find
 <!-- /vscode-markdown-toc -->
 
 ### **Studies by Different AI Model Types in PD Diagnosis**
-![image](https://github.com/Kali-Hac/3D-skeleton-based-person-re-ID-review/blob/main/overview/method_overview.jpg)
 
 #### Conventional Machine Learning Models (C-ML)
 - [Hmm for classification of parkinson’s disease based on the raw gait data](https://link.springer.com/article/10.1007/s10916-014-0147-5) (_Journal of medical systems, 2014_)
@@ -58,8 +63,6 @@ We will continuously update this list with the latest resources. Should you find
 - [Inter-limb time-varying singular value: a new gait feature for Parkinson’s disease detection and stage classification](https://www.sciencedirect.com/science/article/abs/pii/S0263224121002591)(_Measurement, 2021_)
 - [Design and implementation of ML model for early diagnosis of Parkinson’s disease using gait data analysis in IoT environment](https://d1wqtxts1xzle7.cloudfront.net/92913632/Paper_69-Design_and_Implementation_of_ML_Model-libre.pdf?1666542309=&response-content-disposition=inline%3B+filename%3DDesign_and_Implementation_of_ML_Model_fo.pdf&Expires=1706066137&Signature=ewWcb-G8T~nYVriWHAYSl6ZRhKqhRh2GijGVCYY~GkT6SrLD5oVBlajmviCcurQoBJvAQt5zJ0myvlKDSDtu6b6GM7cR~5QpPLJ04B~DMI8Cpr15JEED91Twf3tzKqFYo7c0Dk4DuqBQ9uFSVgQr7CtrHei1E7ZqB4tD0t3t6h2KPPmTVC16AxtikByHZiI4nqIGlejELnbmmYURPDf2GvLgqvUlTvkAbd-hBSdNgQeRGb2SWxkeV0ranpNbgoahRJCduXAp~mAMaw0C1nvjGADKiY4aKTahOH0Y1fyfnsB7kJaflQWTnf38uDf7nEd2b2xLKHj1xhoutYi1X8JeCw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)(_International Journal of Advanced Computer Science and Applications, 2022_)
 - [Gait classification for early detection and severity rating of Parkinson’s disease based on hybrid signal processing and machine learning methods](https://link.springer.com/article/10.1007/s11571-022-09925-9)(_Cognitive Neurodynamics, 2022_)
-
-Remember to replace the `()` with the actual URLs from Google Scholar for each paper.
 #### Conventional Deep Learning Models (C-DL)
 - [Classification of parkinson’s disease patients—a deep learning strategy](https://www.mdpi.com/2079-9292/11/17/2684)(_Electronics, 2022_)
 - [Accelerating diagnosis of Parkinson’s disease through risk prediction](https://bmcneurol.biomedcentral.com/articles/10.1186/s12883-021-02226-4)(_BMC Neurology, 2021_)
