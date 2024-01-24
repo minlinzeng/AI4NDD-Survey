@@ -15,6 +15,7 @@ We will continuously update this list with the latest resources. Should you find
   - [**Multiple Sclerosis (MS)**](#Multiple-Sclerosis-MS)
   - [**Alzheimer’s Disease (AD)**](#Alzheimer’s-Disease-AD)
   - [**Amyotrophic Lateral Sclerosis (ALS)**](#Amyotrophic-Lateral-Sclerosis (ALS))
+  - [**Combinatorial Diagnoses of Different Diseases**](#Combinatorial-Diagnoses-of-Different-Diseases)
 - [**Studies by Different AI Model Types in PD Diagnosis**](#Studies-by-Different-AI-Model-Types-in-PD-Diagnosis)
   - [**Conventional Machine Learning Models (C-ML)**](#Conventional-Machine-Learning-Models-C-ML)
   - [**Conventional Deep Learning Models (C-DL)**](#Conventional-Deep-Learning-Models-C-DL)
@@ -41,8 +42,22 @@ We will continuously update this list with the latest resources. Should you find
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-### **Studies by Different AI Model Types in PD Diagnosis**
+### **Studies by Different Neurodegenerative Disease**
+#### **Parkinson's Disease (PD)**
+#### **Huntington’s Disease (HD)**
+- [Machine learning framework for gait classification using inertial sensors: Application to elderly, post-stroke and huntington’s disease patients]()(_Sensors, 2016_)
+- [Meta-classifiers in Huntington's disease patients classification using iPhone's movement sensors placed at the ankles]()(_IEEE Access, 2018_)
+- [A deep learning-based approach for gait analysis in Huntington disease]()(_MEDINFO 2019: Health and Wellbeing e-Networks for All, IOS Press, 2019_)
+- [An automatic method for identifying Huntington's disease using gait dynamics]()(_2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI), IEEE, 2019, pp. 1659–1663_)
+- [Diagnosing Huntington's disease through gait dynamics]()(_Advances in Visual Computing: 14th International Symposium on Visual Computing ISVC 2019, Springer, 2019_)
+- [Machine learning-based method for Huntington's disease gait pattern recognition]()(_Neural Information Processing: 26th International Conference, ICONIP 2019, Springer, 2019)
+- [Assessment of gait spatio-temporal parameters in neurological disorders using wearable inertial sensors]()(_2015_)
+#### **Multiple Sclerosis (MS)**
+#### **Alzheimer’s Disease (AD)**
+#### **Amyotrophic Lateral Sclerosis (ALS)**
+#### **Combinatorial Diagnoses of Different Diseases**
 
+### **Studies by Different AI Model Types in PD Diagnosis**
 #### **Conventional Machine Learning Models (C-ML)**
 - [Hmm for classification of parkinson’s disease based on the raw gait data](https://link.springer.com/article/10.1007/s10916-014-0147-5) (_Journal of medical systems, 2014_)
 - [Parkinson’s disease classification using gait analysis via deterministic learning](https://www.sciencedirect.com/science/article/abs/pii/S0304394016307261)(_Neuroscience letters, 2016_)
