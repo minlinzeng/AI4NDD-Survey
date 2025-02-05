@@ -80,16 +80,15 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
 Number of studies related to different NDs (PD, HD, MS, AD, ALS) and different model types (C-ML, C-DL, A-DL). “Combinatorial” denotes studies that simultaneously contain diagnosis of multiple NDs including PD,
 ALS, and HD. S_{Q} >0.6 indicates the number of high-quality studies.
 ```
-| **Type**                        | **C-ML** | **C-DL** | **A-DL** | **Total** | **S_{Q}>0.6** |
-|---------------------------------|:--------:|:--------:|:--------:|:---------:|:-------------:|
-| **PD**                          |    77    |     34   |    13    |    124    |       56      |
-| **Combinatorial (PD, ALS, HD)** |    11    |     6    |     2    |     19    |       8       |
-| **HD**                          |     6    |     1    |     0    |     7     |       1       |
-| **MS**                          |     4    |     1    |     1    |     6     |       2       |
-| **AD**                          |     3    |     1    |     1    |     5     |       2       |
-| **ALS**                         |     3    |     0    |     0    |     3     |       0       |
-| **Total**                       |    104   |    43    |    17    |    164    |       —       |
-| **S_{Q}>0.6**                   |    23    |    29    |    17    |     —     |       69      |
+| **Type**                        | **C-ML** | **C-DL** | **A-DL** | **Total** | **S_{Q}>0.5** | **S_{Q}>0.6** | **S_{Q}>0.7** |
+|---------------------------------|:--------:|:--------:|:--------:|:---------:|:-------------:|:-------------:|:-------------:|
+| **PD**                          |    78    |     34   |    14    |    126    |       112     |      56       |       43      |
+| **Combinatorial (PD, ALS, HD)** |    11    |     7    |     3    |    21     |       21      |      12       |       10      |
+| **HD**                          |     6    |     1    |     0    |    7      |       6       |      2        |       1       |
+| **MS**                          |     4    |     1    |     1    |    6      |       2       |      2        |       1       |
+| **AD**                          |     3    |     1    |     2    |    6      |       2       |      4        |       2       |
+| **ALS**                         |     3    |     0    |     0    |    3      |       1       |      1        |       0       |
+| **Total**                       |    105   |    44    |    20    |    169    |       148     |      77       |       57      |
 
 
 ## **Key Summary of Different Gait-Based Neurodegenerative Diseases (NDs) Studies**
