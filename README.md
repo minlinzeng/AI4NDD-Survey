@@ -60,7 +60,7 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
 
 
 ## Overview of Worldwide Effects
-![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/World_effects.png)
+![image](https://github.com/minlinzeng/AI4NDD-Survey/tree/main/Resources/World_effects.png)
 
 ## Overview of Worldwide Studies
 ![image](https://github.com/Kali-Hac/AI-for-gait-based-neurodegenerative-disease-diagnosis-survey/blob/main/overview/published_year.png)
