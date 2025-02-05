@@ -78,7 +78,7 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
 ## Statistics of Different Types of NDs Studies and AI Models
 ```bash
 Number of studies related to different NDs (PD, HD, MS, AD, ALS) and different model types (C-ML, C-DL, A-DL). “Combinatorial” denotes studies that simultaneously contain diagnosis of multiple NDs including PD,
-ALS, and HD. S_{Q} >0.5 indicates the number of studies above the quality score.
+ALS, and HD. S_{Q} > indicates the number of studies above the quality score.
 ```
 | **Type**                        | **C-ML** | **C-DL** | **A-DL** | **Total** | **S_{Q}>0.5** | **S_{Q}>0.6** | **S_{Q}>0.7** |
 |---------------------------------|:--------:|:--------:|:--------:|:---------:|:-------------:|:-------------:|:-------------:|
