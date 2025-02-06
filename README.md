@@ -13,7 +13,7 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
 - [**Overview of Worldwide Effects of NDs (No. of Patients)**](#Overview-of-Worldwide-Effects)
 - [**Overview of Worldwide Research (No. of Studies)**](#Overview-of-Worldwide-Studies)
 - [**Framework Overview**](#Framework-Overview)
-- [**Overview of 170 Included Studies (AI Types, NDs Types, Sample Sizes, Gait Data Types, etc.)**](#Overview-of-All-Included-Studies)
+- [**Overview of 169 Included Studies (AI Types, NDs Types, Sample Sizes, Gait Data Types, etc.)**](#Overview-of-All-Included-Studies)
 - [**Statistics of Different Types of NDs Studies and AI Models**](#Statistics-of-Different-Types-of-NDs-Studies-and-AI-Models)
 - [**Key Information Summary of Different Gait-Based NDs Studies**](#Key-Summary-of-Different-Gait-Based-Neurodegenerative-Diseases-NDs-Studies)
   - [**Key Information Summary of Gait-Based PD Studies**](#Key-Summary-of-Gait-Based-PD-Studies)
@@ -50,7 +50,7 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
   - [**2012**](#2012)
 
 
-- [**List of All Included Papers (170 Papers)**](#List-of-All-Included-Papers)
+- [**List of All Included Papers (169 Papers)**](#List-of-All-Included-Papers)
 - [**Taxonomy of Gait Data**](#Taxonomy-of-Gait-Data)
 - [**Research Vision on 3D Skeleton based NDs Diagnosis**](#Research-Vision-on-3D-Skeleton-based-NDs-Diagnosis)
 <!-- vscode-markdown-toc-config
@@ -527,9 +527,8 @@ ALS, and HD. S_{Q} > indicates the number of studies above the quality score.
 | 165 | Wearable sensor-based assessments for remotely screening early-stage parkinson’s disease                                                                                              	      | PD                                         | 2024 | Sensors 2024                                                                                                                                                                  | Clinical Ink, Winston-Salem                                          | 10.3390/s24175637                  |
 | 166 | Cross-spatiotemporal graph convolution networks for skeleton-based parkinsonian gait mds-updrs score estimation                                                                        	      | PD                                         | 2024 | IEEE Transactions on Neural Systems and Rehabilitation Engineering                                                                                                  | Shandong University                                          | 10.1109/TNSRE.2024.3352004|
 | 167 | Automatic assessments of parkinsonian gait with wearable sensors for human assistive systems                                                                                                  | PD                                         | 2023 | Sensors 2023                                                                                                                                                                  | Zhejiang University                                         | 10.3390/s23042104                            |
-| 168 | Deep learning-based classification of neurodegenerative diseases using gait dataset: A comparative study                                                                                      | PD, HD, ALS                                | 2023 | Proceedings of the 2023 International Conference on Robotics, Control and Vision Engineering                                                                                 | University of Technology Sydney                                           | 10.1145/3608143.3608154   |
-| 169 | Cnn-based neurodegenerative disease classification using qr-represented gait data                                                                                                             | PD, HD, ALS                                | 2024 | Brain and Behavior 2024                                                                                                                                                  |  Başkent University           | 10.1002/brb3.70100                           |
-| 170 | Multimodal gait abnormality recognition using a convolutional neural network–bidirectional long short-term memory (cnn-bilstm) network based on multi-sensor data fusion                      | PD, HD, ALS                                | 2023 | Sensors 2023                                                                                                                                                               | Hubei University of Technology                                           | 10.3390/s23229101    |
+| 168 | Cnn-based neurodegenerative disease classification using qr-represented gait data                                                                                                             | PD, HD, ALS                                | 2024 | Brain and Behavior 2024                                                                                                                                                  |  Başkent University           | 10.1002/brb3.70100                           |
+| 169 | Multimodal gait abnormality recognition using a convolutional neural network–bidirectional long short-term memory (cnn-bilstm) network based on multi-sensor data fusion                      | PD, HD, ALS                                | 2023 | Sensors 2023                                                                                                                                                               | Hubei University of Technology                                           | 10.3390/s23229101    |
 
 
 
