@@ -23,7 +23,7 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
   - [**Key Information Summary of Gait-Based MS Studies**](#Key-Summary-of-Gait-Based-MS-Studies)
   - [**Key Information Summary of Gait-Based Combinatorial Studies (PD, ALS, HD)**](#Key-Summary-of-Combinatorial-Studies-PD-ALS-HD)
 - [**Studies by Different Neurodegenerative Diseases**](#Studies-by-Different-Neurodegenerative-Disease)
-  - [**Parkinson's Disease (PD) **](#Parkinsons-Disease-PD)
+  - [**Parkinson's Disease (PD) (Papers with Quality Scores larger than 0.6)**](#Parkinsons-Disease-PD)
     - [**Studies by Different AI Model Types in PD Diagnosis**](#Studies-by-Different-AI-Model-Types-in-PD-Diagnosis)
       - [**Conventional Machine Learning Models (C-ML)**](#Conventional-Machine-Learning-Models-C-ML)
       - [**Conventional Deep Learning Models (C-DL)**](#Conventional-Deep-Learning-Models-C-DL)
