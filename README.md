@@ -35,6 +35,7 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
   - [**Combinatorial Diagnoses of Different Diseases**](#Combinatorial-Diagnoses-of-Different-Diseases)
 
 - [**Studies by Different Years**](#Studies-by-Different-Years)
+ 	- [**2024**](#2024)
 	- [**2023**](#2023)
 	- [**2022**](#2022)
 	- [**2021**](#2021)
@@ -49,7 +50,7 @@ By Haocong Rao, Minlin Zeng, Xuejiao Zhao, and Chunyan Miao.
   - [**2012**](#2012)
 
 
-- [**List of All Included Papers (164 Papers)**](#List-of-All-Included-Papers)
+- [**List of All Included Papers (170 Papers)**](#List-of-All-Included-Papers)
 - [**Taxonomy of Gait Data**](#Taxonomy-of-Gait-Data)
 - [**Research Vision on 3D Skeleton based NDs Diagnosis**](#Research-Vision-on-3D-Skeleton-based-NDs-Diagnosis)
 <!-- vscode-markdown-toc-config
@@ -139,6 +140,8 @@ ALS, and HD. S_{Q} > indicates the number of studies above the quality score.
  (_Measurement, 2021_)
 - [Design and implementation of ML model for early diagnosis of Parkinson’s disease using gait data analysis in IoT environment](https://d1wqtxts1xzle7.cloudfront.net/92913632/Paper_69-Design_and_Implementation_of_ML_Model-libre.pdf?1666542309=&response-content-disposition=inline%3B+filename%3DDesign_and_Implementation_of_ML_Model_fo.pdf&Expires=1706066137&Signature=ewWcb-G8T~nYVriWHAYSl6ZRhKqhRh2GijGVCYY~GkT6SrLD5oVBlajmviCcurQoBJvAQt5zJ0myvlKDSDtu6b6GM7cR~5QpPLJ04B~DMI8Cpr15JEED91Twf3tzKqFYo7c0Dk4DuqBQ9uFSVgQr7CtrHei1E7ZqB4tD0t3t6h2KPPmTVC16AxtikByHZiI4nqIGlejELnbmmYURPDf2GvLgqvUlTvkAbd-hBSdNgQeRGb2SWxkeV0ranpNbgoahRJCduXAp~mAMaw0C1nvjGADKiY4aKTahOH0Y1fyfnsB7kJaflQWTnf38uDf7nEd2b2xLKHj1xhoutYi1X8JeCw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) (_International Journal of Advanced Computer Science and Applications, 2022_)
 - [Gait classification for early detection and severity rating of Parkinson’s disease based on hybrid signal processing and machine learning methods](https://link.springer.com/article/10.1007/s11571-022-09925-9) (_Cognitive Neurodynamics, 2022_)
+- [Wearable sensor-based assessments for remotely screening early-stage parkinson’s disease](https://www.mdpi.com/1424-8220/24/17/5637) (_Sensors, 2024_)
+- [Automatic assessments of parkinsonian gait with wearable sensors for human assistive systems](https://www.mdpi.com/1424-8220/23/4/2104) (_Sensors, 2023_)
 
 ###### Conventional Deep Learning Models (C-DL)
 - [Parkinson's disease classification using wavelet transform based feature extraction of gait data](https://ieeexplore.ieee.org/abstract/document/8074230) (_2017 International Conference on Circuit Power and Computing Technologies (ICCPCT), IEEE, 2017_)  
@@ -179,6 +182,7 @@ ALS, and HD. S_{Q} > indicates the number of studies above the quality score.
 - [SlowFast GCN network for quantification of parkinsonian gait using 2D videos](https://ieeexplore.ieee.org/document/9907308) (_2022 12th International Conference on CYBER Technology in Automation Control and Intelligent Systems (CYBER), IEEE, 2022_)
 - [WM-STGCN: A novel spatiotemporal modeling method for parkinsonian gait recognition](https://www.mdpi.com/1424-8220/23/10/4980) (_Sensors, 2023_)
 - [Static-dynamic temporal networks for parkinson’s disease detection and severity prediction](https://ieeexplore.ieee.org/abstract/document/10107480) (_IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023_)
+- [Cross-spatiotemporal graph convolution networks for skeleton-based parkinsonian gait mds-updrs score estimation](https://ieeexplore.ieee.org/abstract/document/10387461) (_IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024_)
 
 #### **Huntington’s Disease (HD)**
 - [Assessment of gait spatio-temporal parameters in neurological disorders using wearable inertial sensors](https://amsdottorato.unibo.it/7122/) (_N.A., 2015_)
@@ -229,6 +233,8 @@ ALS, and HD. S_{Q} > indicates the number of studies above the quality score.
 - [Petri net transition times as training features for multiclass models to support the detection of neurodegenerative diseases](https://iopscience.iop.org/article/10.1088/2057-1976/ac8c9a/meta) (_Biomedical Physics & Engineering Express, 2022_)
 - [Using machine learning algorithms for neurodegenerative disease gait classification](https://revistas.usb.edu.co/index.php/IngUSBmed/article/view/6081) (_Ingenierias USBMed, 2023_)
 - [Deep learning-based classification of neurodegenerative diseases using gait dataset: A comparative study](https://dl.acm.org/doi/abs/10.1145/3608143.3608154) (_Proceedings of the 2023 International Conference on Robotics, Control and Vision Engineering, 2023_)
+- [Cnn-based neurodegenerative disease classification using qr-represented gait data](https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.70100) (_Brain and Behavior, 2024_)
+- [Multimodal gait abnormality recognition using a convolutional neural network–bidirectional long short-term memory (cnn-bilstm) network based on multi-sensor data fusion](https://www.mdpi.com/1424-8220/23/22/9101) (_Sensors, 2023_)
 
 
 ### Studies by Different Years 
